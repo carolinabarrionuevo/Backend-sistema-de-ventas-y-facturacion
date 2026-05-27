@@ -1,13 +1,13 @@
 ##  Simulador de Ventas y Pasarela de Pagos
 
 *Proyecto académico enfocado en fundamentos de Programación Orientada a Objetos desarrollado en la Universidad Argentina de la Empresa (UADE).*
-**Estado:** Proyecto finalizado en junio de 2025.
+ 
+ **Estado:** Proyecto finalizado en junio de 2025.
 
 ##  Objetivo del Proyecto
 El propósito de este desarrollo es demostrar el dominio de los fundamentos de Java y los pilares de la Programación Orientada a Objetos (POO). A través de la simulación de un carrito de compras y un sistema de cobros, el proyecto refleja la capacidad para modelar problemas del mundo real utilizando código limpio, escalable y mantenible, sin depender de frameworks externos.
 
 * **Lenguaje:** Java (Core / Standard Edition)
-
 
 ## Lógica de Negocio y Características
 * **Diseño Escalable con POO:** Implementación de una pasarela de pagos utilizando **herencia** y **polimorfismo** para gestionar de manera dinámica diferentes métodos de cobro (Efectivo, Tarjeta de Débito, Tarjeta de Crédito).
